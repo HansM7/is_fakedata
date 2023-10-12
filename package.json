@@ -1,6 +1,6 @@
 {
   "name": "is-fakedata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create fake data",
   "main": "main.min.js",
   "type": "module",
