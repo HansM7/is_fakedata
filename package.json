@@ -1,0 +1,17 @@
+{
+  "name": "is-fakedata",
+  "version": "1.0.2",
+  "description": "Create fake data",
+  "main": "main.min.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minify": "terser index.js -o main.min.js --mangle"
+  },
+  "keywords": [],
+  "author": "hans",
+  "license": "ISC",
+  "devDependencies": {
+    "terser": "^5.21.0"
+  }
+}
