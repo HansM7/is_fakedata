@@ -33,5 +33,5 @@ The function initially receives many parameters, some are not mandatory, here I 
 Ready, that's all! 😁
 ## Authors
 
-- [@Hans](https://www.github.com/octokatherine)
+- [@Hans](https://www.github.com/HansM7)
 
